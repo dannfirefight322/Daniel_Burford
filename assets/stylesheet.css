@@ -82,3 +82,18 @@ img{
     padding-left: 15px;
     margin-top: -75px;
 }
+#contact-me{
+    display: flex;
+    width:30%;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    border: solid black;
+    height: 150px;
+}
+.c-content{
+    display: flex;
+    border: solid black;
+    width: 69%;
+}
